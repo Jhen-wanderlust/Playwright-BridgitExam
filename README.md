@@ -96,6 +96,8 @@ A positive number indicates a good loan, and a negative number indicates a bad l
 Build automated tests to test the following:
 
   - Test a passing scenario (formula returns a positive number)
+
+    Documentation: https://docs.google.com/document/d/1ueRqqOMJ5Gza4bWKSKRaeZChDq4cWdQDdQJPImpah34/edit?usp=sharing
   - Test a failing scenario (formula returns a negative number)
 
   for this calculation test: 
