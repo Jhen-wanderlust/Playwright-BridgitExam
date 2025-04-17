@@ -20,7 +20,16 @@ Prerequesites:
 - NodeJS 16
 - Docker
 
-Setting up the database on `postgres://user:password@localhost:5436/technical_test`:
+Setting up the database on 
+
+
+# Database URL
+DATABASE_URL=postgres://postgres:123456@localhost:5432/technical_test
+
+# Node environment
+NODE_ENV=dev
+
+
 
 ```bash
 # start postgresql server using Docker's "Compose"
