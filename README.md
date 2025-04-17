@@ -97,10 +97,12 @@ Build automated tests to test the following:
 
   - Test a passing scenario (formula returns a positive number)
 
-    Documentation: https://docs.google.com/document/d/1ueRqqOMJ5Gza4bWKSKRaeZChDq4cWdQDdQJPImpah34/edit?usp=sharing
+
   - Test a failing scenario (formula returns a negative number)
 
   for this calculation test: 
 
       npx playwright test servicingCalculator.spec.ts --project=chrome
 
+      
+    Documentation: https://docs.google.com/document/d/1ueRqqOMJ5Gza4bWKSKRaeZChDq4cWdQDdQJPImpah34/edit?usp=sharing
