@@ -20,7 +20,7 @@ Welcome to the Bridgit QA technical test.  After you have set up the software pl
 Prerequesites: 
 
 - NodeJS 16
-- Docker
+- Postgresql or Docker
 
 Setting up the database on 
 
