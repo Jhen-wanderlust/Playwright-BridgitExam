@@ -1,5 +1,7 @@
 # Bridgit QA competency test
 
+Check the files under test directory.
+
 Welcome to the Bridgit QA technical test.  After you have set up the software please complete as many tasks as you can in the allotted timeframe.
 
 | Project  | Description                                |
